@@ -2,8 +2,8 @@
 
 ##TODO
 
-- [ ] Fazer o deploy (vercel)
-- [ ] Criar uma interface básica com dados fictícios
+- [x] Fazer o deploy (vercel)
+- [x] Criar uma interface básica com dados fictícios
 - [ ] Configurar um banco de dados real
 - [ ] Conectar o banco de dados à interface do usuário( vercel postgres)
 - [ ] Adicionar autenticação (w/ clerk)
